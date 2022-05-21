@@ -38,7 +38,7 @@ public class MarkdownParseTest {
         expected.add("example.com");
 
         assertEquals(expected, links);
-   }
+    }
 
     @Test
         public void snippetThreeTest() throws IOException {
